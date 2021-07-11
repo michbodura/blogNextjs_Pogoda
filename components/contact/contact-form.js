@@ -124,7 +124,7 @@ function ContactForm() {
         </div>
 
         <div className={classes.actions}>
-          <button>Wyślij</button>
+          <button>Wyślij maila</button>
         </div>
       </form>
       {notification && (
